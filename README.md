@@ -11,6 +11,7 @@ A list of awesome resources and tools
 - **[Egghead](https://egghead.io/articles/gentle-introduction-to-the-react-flux-architecture)** Courses focused on web development
 - **[Papers we love](https://github.com/papers-we-love/papers-we-love)** List of CS papers worth reading
 - **[Neural Network Course](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)** from Sherbrooke University on youtube
+
 ## Generic
 
 - **[Regexr](http://regexr.com/)** Powerful regular expression tool
