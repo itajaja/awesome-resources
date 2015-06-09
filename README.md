@@ -15,3 +15,4 @@ A list of awesome resources and tools
 ## Generic
 
 - **[Regexr](http://regexr.com/)** Powerful regular expression tool
+- **[Socrates](http://socrates.io/)** A collaborative Markdown editor
