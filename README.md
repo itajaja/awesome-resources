@@ -16,3 +16,4 @@ A list of awesome resources and tools
 
 - **[Regexr](http://regexr.com/)** Powerful regular expression tool
 - **[Socrates](http://socrates.io/)** A collaborative Markdown editor
+- **[myTemp.email](https://mytemp.email/)** Reliable temporary email service
