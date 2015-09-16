@@ -6,6 +6,7 @@ A list of awesome resources and tools
 - **[Balsamiq Mockups](https://balsamiq.com/products/mockups/)** powerful and simple mockup tool
 - **[Precursor](https://precursorapp.com/)** Real time collaborative mockups and blackboard
 - **[Unsplash](https://unsplash.com/)** Stock photos that don't suck
+- **[js-sequence-diagram](http://bramp.github.io/js-sequence-diagrams/)** Sequence diagrams in javascript
 
 ## Learning
 
